@@ -1,6 +1,6 @@
 <Defs>
   
-  <ThingDef ParentName="ResourceVerbBase">
+  <ThingDef ParentName="ResourceBase">
     <defName>softresin</defName>
     <label>soft resin</label>
     <description>Soft tentacle resin, it is pretty and immune to fire, but weak structurally.</description>
