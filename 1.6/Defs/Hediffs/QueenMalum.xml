@@ -139,7 +139,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>infested rectum</label>
     <labelNoun>rectum</labelNoun>
-    <description>The Malum lord has grown and invaded this part of the body. The hosts rectum, and large intestine are being filled with malum larvae swarms to aid in reproduction.</description>
+    <description>The Malum lord has grown and invaded this part of the body. The hosts rectum and large intestine are being filled with Malum larvae swarms to aid in reproduction.</description>
     <defaultLabelColor>(255,20,147)</defaultLabelColor>
     <minSeverity>0.001</minSeverity>
     <initialSeverity>0.001</initialSeverity>
@@ -199,7 +199,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>infested stomach</label>
     <labelNoun>stomach</labelNoun>
-    <description>The Malum lord has grown and invaded this part of the body. The hosts stomach, and throat are being filled with larvae and cleared of acid to cultivate a better enviroment for tentacle offspring. These processes are uncomfortable.</description>
+    <description>The Malum lord has grown and invaded this part of the body. The hosts stomach and throat are being filled with larvae and cleared of acid to cultivate a better environment for tentacle offspring. These processes are uncomfortable.</description>
     <defaultLabelColor>(255,20,147)</defaultLabelColor>
     <minSeverity>0.001</minSeverity>
     <initialSeverity>0.001</initialSeverity>
@@ -271,7 +271,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>infested genitals</label>
     <labelNoun>genitals</labelNoun>
-    <description>The malum queen has grown and invaded this part of the body. The hosts genitals are being altered to produce malum eggs from the balls. These processes are uncomfortable.</description>
+    <description>The Malum queen has grown and invaded this part of the body. The hosts genitals are being altered to produce Malum eggs from the balls. These processes are uncomfortable.</description>
     <defaultLabelColor>(255,20,147)</defaultLabelColor>
     <minSeverity>0.001</minSeverity>
     <initialSeverity>0.001</initialSeverity>
@@ -335,7 +335,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>Malum Pregnancy</label>
     <labelNoun>Pregnancy</labelNoun>
-    <description>An Adult Malum Tentaculum lord growing within the host causing a permanent pregnancy. The host can now begin implanting eggs.</description>
+    <description>An adult Malum Tentaculum lord growing within the host causing a permanent pregnancy. The host can now begin implanting eggs.</description>
     <defaultLabelColor>(203,120,227)</defaultLabelColor>
     <scenarioCanAdd>true</scenarioCanAdd>
     <maxSeverity>1.5</maxSeverity>

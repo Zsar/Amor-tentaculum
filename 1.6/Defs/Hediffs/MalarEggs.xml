@@ -4,7 +4,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>malum natator</label>
     <labelNoun>natator</labelNoun>
-    <description>A group of parasitic malum larvae. They will continue to grow until they are to big for the orifice they are in, or until they are surgiclly removed.</description>
+    <description>A group of parasitic Malum larvae. They will continue to grow until they are too big for the orifice they are in or until they are surgically removed.</description>
     <defaultLabelColor>(203,120,227)</defaultLabelColor>
     <minSeverity>0.001</minSeverity>
     <initialSeverity>0.001</initialSeverity>
@@ -147,7 +147,7 @@
   <ThingDef>
     <defName>swimmers</defName>
     <label>malum natator</label>
-    <description>Small wiggling malum larva. They can be used to create implants or you can eat them if you are brave enough.</description>
+    <description>Small wiggling Malum larvae. They can be used to create implants or you can eat them if you are brave enough.</description>
     <thingClass>ThingWithComps</thingClass>
     <selectable>true</selectable>
     <category>Item</category>

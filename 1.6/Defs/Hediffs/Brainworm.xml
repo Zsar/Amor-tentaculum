@@ -4,7 +4,7 @@
     <defName>IBworm</defName>
     <label>Indoctrination Worm</label>
     <labelNoun>a indoctrination worm</labelNoun>
-    <description>A parisitic worm attached to the brain stem. Keeps the victim content and ready to die even under horrible conditions.</description>
+    <description>A parasitic worm attached to the brain stem. Keeps the victim content and ready to die even under horrible conditions.</description>
     <descriptionHyperlinks><ThingDef>IndoWorm</ThingDef></descriptionHyperlinks>
     <stages>
       <li>
@@ -33,7 +33,7 @@
   <ThingDef ParentName="BodyPartProstheticBase">
     <defName>IndoWorm</defName>
     <label>Indoctrination Worm</label>
-    <description>A parisitic worm to be implanted in the brain stem. Keeps the victim content and ready to die even under horrible conditions.</description>
+    <description>A parasitic worm to be implanted in the brain stem. Keeps the victim content and ready to die even under horrible conditions.</description>
     <descriptionHyperlinks><RecipeDef>InstallIndoWorm</RecipeDef></descriptionHyperlinks>
    <graphicData>
       <texPath>Things/Items/BrainLarve/WLarvae</texPath>
@@ -103,7 +103,7 @@
   <ThingDef ParentName="BodyPartProstheticBase">
     <defName>BreedWorm</defName>
     <label>Breeding Worm</label>
-    <description>A parisitic worm to be implanted in the brain stem. Causes excessive arousal, energy, and agression.</description>
+    <description>A parasitic worm to be implanted in the brain stem. Causes excessive arousal, energy, and aggression.</description>
     <descriptionHyperlinks><RecipeDef>InstallBreedWorm</RecipeDef></descriptionHyperlinks>
    <graphicData>
       <texPath>Things/Items/BrainLarve/WLarvae</texPath>
@@ -174,7 +174,7 @@
     <defName>Bworm</defName>
     <label>Breeding Worm</label>
     <labelNoun>a Breeding worm</labelNoun>
-    <description>A parisitic worm attached to the brain stem. Keeps the victim aroused, energtic, and agressive.</description>
+    <description>A parasitic worm attached to the brain stem. Keeps the victim aroused, energetic, and aggressive.</description>
     <descriptionHyperlinks><ThingDef>BreedWorm</ThingDef></descriptionHyperlinks>
     <stages>
       <li>
@@ -204,7 +204,7 @@
   <ThingDef ParentName="BodyPartProstheticBase">
     <defName>FeedWorm</defName>
     <label>Feeding Tentacle</label>
-    <description>A tentacle ment for insertion in the throat. Rapidly digests food for the host and injects it as a slurry down the throat. Makes the target immune to gutworms, and food poisoning.</description>
+    <description>A tentacle meant for insertion in the throat. Rapidly digests food for the host and injects it as a slurry down the throat. Makes the target immune to Gut worms and Food poisoning.</description>
     <descriptionHyperlinks><RecipeDef>InstallfeedWorm</RecipeDef></descriptionHyperlinks>
     <thingSetMakerTags>
       <li>RewardStandardLowFreq</li>
@@ -271,7 +271,7 @@
     <defName>Fworm</defName>
     <label>Feeding Tentacle</label>
     <labelNoun>a feeding tentacle</labelNoun>
-    <description>A tentacle living in the throat and mouth. Rapidly digests food for the host and injects it as a slurry down the throat. Makes the target immune to gutworms, and food poisoning.</description>
+    <description>A tentacle living in the throat and mouth. Rapidly digests food for the host and injects it as a slurry down the throat. Makes the target immune to Gut worms, and Food poisoning.</description>
     <descriptionHyperlinks><ThingDef>FeedWorm</ThingDef></descriptionHyperlinks>
     <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">

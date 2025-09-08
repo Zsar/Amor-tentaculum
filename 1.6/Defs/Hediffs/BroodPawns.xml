@@ -5,7 +5,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>Amor Baroness</label>
     <labelNoun>baroness</labelNoun>
-    <description>An Amor nymph has infected this pawn, and has started slow turning them into an incubator for Amor tentacles.</description>
+    <description>An Amor nymph has infected this pawn, and has started to turn them slowly into an incubator for Amor tentacles.</description>
     <defaultLabelColor>(203,120,227)</defaultLabelColor>
     <scenarioCanAdd>true</scenarioCanAdd>
     <maxSeverity>1.5</maxSeverity>
@@ -116,7 +116,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>stretched rectum</label>
     <labelNoun>rectum</labelNoun>
-    <description>The brood hosts rectum, and large intestine have been stretched to accommodate larger and more plentaful tentacle insertions.</description>
+    <description>The brood hosts rectum and large intestine have been stretched to accommodate larger and more plentiful tentacle insertions.</description>
     <defaultLabelColor>(255,20,147)</defaultLabelColor>
      <minSeverity>1</minSeverity>
     <initialSeverity>1</initialSeverity>
@@ -231,7 +231,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>stretched stomach</label>
     <labelNoun>stomach</labelNoun>
-    <description>The brood hosts stomach, and throat have been stretched and cleared of acid to cultivate a better enviroment for tentacle offspring.</description>
+    <description>The brood hosts stomach and throat have been stretched and cleared of acid to cultivate a better environment for tentacle offspring.</description>
     <defaultLabelColor>(255,20,147)</defaultLabelColor>
     <minSeverity>1</minSeverity>
     <initialSeverity>1</initialSeverity>
@@ -347,7 +347,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>stretched womb</label>
     <labelNoun>womb</labelNoun>
-    <description>The Amor queen has grown and invaded this part of the body. The hosts womb, and cervix are being stretched open to support longterm tentacle pregnacny. These processes are uncomfortable.</description>
+    <description>The Amor queen has grown and invaded this part of the body. The hosts womb and cervix are being stretched open to support long term tentacle pregnancy. These processes are uncomfortable.</description>
     <defaultLabelColor>(255,20,147)</defaultLabelColor>
     <minSeverity>1</minSeverity>
     <initialSeverity>1</initialSeverity>
@@ -527,7 +527,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>Amor Baroness Womb</label>
     <labelNoun>baroness</labelNoun>
-    <description>An implanted nymph has caused this pawn to because nothing more than an incubater for Amor tentacles.</description>
+    <description>An implanted nymph has caused this pawn to because nothing more than an incubator for Amor tentacles.</description>
     <defaultLabelColor>(203,120,227)</defaultLabelColor>
     <scenarioCanAdd>true</scenarioCanAdd>
     <maxSeverity>1</maxSeverity>

@@ -3,7 +3,7 @@
     <ThingDef ParentName="BodyPartProstheticBase">
         <defName>QueenEgg</defName>
         <label>Amor Queen Egg</label>
-        <description>An Amor Tentaculum queen egg. When eatten will hatch in the hosts womb. Leathal for pawns without a vagina.</description>
+        <description>An Amor Tentaculum queen egg. When eaten, will hatch in the host's womb. Lethal for pawns without a vagina.</description>
         <graphicData>
             <texPath>Things/Items/StartEgg</texPath>
             <graphicClass>Graphic_StackCount</graphicClass>
@@ -76,7 +76,7 @@
         <ThingDef ParentName="BodyPartProstheticBase">
         <defName>QueenEggM</defName>
         <label>Malum Lord Egg(wip don't use)</label>
-        <description>A Malum Tentaculum egg. When eatten will hatch in the hosts stomach. Leathal for pawns with out a penis.</description>
+        <description>A Malum Tentaculum egg. When eaten, will hatch in the host's stomach. Lethal for pawns without a penis.</description>
         <graphicData>
             <texPath>Things/Items/StartEgg</texPath>
             <graphicClass>Graphic_StackCount</graphicClass>
@@ -107,7 +107,7 @@
   <RecipeDef ParentName="SurgeryFlesh">
     <defName>InstallMalumLord</defName>
     <label>implant malum lord egg</label>
-    <description>Implant a malum lord. Lethal for pawns without a penis.</description>
+    <description>Implant a Malum lord. Lethal for pawns without a penis.</description>
     <descriptionHyperlinks>
       <ThingDef>QueenEggM</ThingDef>
       <HediffDef>queenimplantM</HediffDef>
@@ -311,7 +311,7 @@
     <ThingDef ParentName="BodyPartBase">
         <defName>BroodEgg</defName>
         <label>Amor Nymph</label>
-        <description>An Amor Nymph. Can be implated in pawns to create a baroness, which will birth amor drones and amor warriors. WARNING: Will incapacitate the host! Leathal for pawns without a vagina.</description>
+        <description>An Amor Nymph. Can be implated in pawns to create a baroness, which will birth amor drones and amor warriors. WARNING: Will incapacitate the host! Lethal for pawns without a vagina.</description>
         <graphicData>
             <texPath>Things/Items/BroodEggAmor/BaronessAmor</texPath>
             <graphicClass>Graphic_Single</graphicClass>
@@ -327,7 +327,7 @@
   <RecipeDef ParentName="SurgeryFlesh">
     <defName>InstallAmorBrood</defName>
     <label>implant amor nymph</label>
-    <description>Implant an amor nymph. WARNING: Will incapacitate the host! Lethal for pawns without a vagina.</description>
+    <description>Implant an Amor Nymph. WARNING: Will incapacitate the host! Lethal for pawns without a vagina.</description>
     <descriptionHyperlinks>
       <ThingDef>BroodEgg</ThingDef>
       <HediffDef>amorbrood</HediffDef>

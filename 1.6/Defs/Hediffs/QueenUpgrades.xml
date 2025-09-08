@@ -275,7 +275,7 @@
     <HediffDef>
         <defName>Organelasticity</defName>
         <label>organ elasticity</label>
-        <description>The elasticity of the host body is the main factor determing how many tentacles they can hold. Can be increased by filling the body to the brim with tentacles to stretch it.</description>
+        <description>The elasticity of the host body is the main factor determining how many tentacles they can hold. Can be increased by filling the body to the brim with tentacles to stretch it.</description>
         <isBad>False</isBad>
         <defaultLabelColor>(255,182,193)</defaultLabelColor>
         <everCurableByItem>False</everCurableByItem>
@@ -511,7 +511,7 @@
           <ThingDef ParentName="BodyPartBionicBase">
     <defName>TStomachEItem</defName>
     <label>storage stomach</label>
-    <description>An advanced stomach implant completely removing the original use for the organ in favor of letting tentacles handle digestive processes, and allowing more of them to ocupy the host body.</description>
+    <description>An advanced stomach implant completely removing the original use of the organ in favor of letting tentacles handle digestive processes and allowing more of them to ocupy the host body.</description>
     <descriptionHyperlinks>
       <RecipeDef>InstallTStomachEnhance</RecipeDef>
     </descriptionHyperlinks>
@@ -544,7 +544,7 @@
     <defName>storagestomach</defName>
     <label>storage stomach</label>
     <labelNoun>a storage stomach</labelNoun>
-    <description>An advanced stomach implant completely removing the original use for the organ in favor of letting tentacles handle digestive processes, and allowing more of them to ocupy the host body.</description>
+    <description>An advanced stomach implant completely removing the original use of the organ in favor of letting tentacles handle digestive processes and allowing more of them to ocupy the host body.</description>
     <descriptionHyperlinks><ThingDef>TStomachEItem</ThingDef></descriptionHyperlinks>
     <spawnThingOnRemoved>TStomachEItem</spawnThingOnRemoved>
       <stages>

@@ -64,7 +64,7 @@
     <defName>aggressive_nature</defName>
     <label>aggressive nature</label>
     <labelNoun>aggressive</labelNoun>
-    <description>This creature is geneticly programed by the hive to be more aggressive in it's pursuit of intruders.</description>
+    <description>This creature is genetically programmed by the hive to be more aggressive in its pursuit of intruders.</description>
     <stages>
       <li>
         <painOffset>-0.70</painOffset>
@@ -80,7 +80,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>Tentacles in Anus</label>
     <labelNoun>Amor Internum</labelNoun>
-    <description>Amor Internum are living within the hosts ass. Tentacles in the anal cavity increase movement speed and can be birthed into bood nymphs.</description>
+    <description>Amor Interna are living within the host's ass. Tentacles in the anal cavity increase movement speed and can be birthed into brood nymphs.</description>
     <defaultLabelColor>(216,191,216)</defaultLabelColor>
     <minSeverity>1</minSeverity>
     <initialSeverity>1</initialSeverity>
@@ -150,7 +150,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>Tentacles in Womb</label>
     <labelNoun>Amor Internum</labelNoun>
-    <description>Amor Internum are living within the hosts womb. Tentacles in the womb work to incubate huge Amor Matron Eggs, and increase psychic sensitivity.</description>
+    <description>Amor Interna are living within the host's womb. Tentacles in the womb work to incubate huge Amor Matron Eggs and increase psychic sensitivity.</description>
     <defaultLabelColor>(216,191,216)</defaultLabelColor>
     <minSeverity>0</minSeverity>
     <initialSeverity>1</initialSeverity>
@@ -222,7 +222,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>Tentacles in Stomach</label>
     <labelNoun>Amor Internum</labelNoun>
-    <description>Amor Internum are living within the hosts stomach. Tentacles in the stomach can be vomitted up as an attack, and increase host regeneration.</description>
+    <description>Amor Interna are living within the hosts stomach. Tentacles in the stomach can be vomited up as an attack and increase host regeneration.</description>
     <defaultLabelColor>(216,191,216)</defaultLabelColor>
     <minSeverity>0</minSeverity>
     <initialSeverity>1</initialSeverity>

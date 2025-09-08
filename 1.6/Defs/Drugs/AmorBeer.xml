@@ -3,7 +3,7 @@
   <ThingDef ParentName="DrugBase">
     <defName>TentBeer</defName>
     <label>amornuum</label>
-    <description>A strange alcohol like substnace. Causes a loose feeling when drank, minor hallucinations, and increased sexual activity.</description>
+    <description>A strange alcohol-like substance. Causes a loose feeling when drunken, minor hallucinations and increased sexual activity.</description>
     <descriptionHyperlinks>
       <HediffDef>Tentbeerhigh</HediffDef>
       <HediffDef>AlcoholTolerance</HediffDef>
@@ -103,7 +103,7 @@
     <defName>Tentbeerhigh</defName>
     <label>drunk on amornuum</label>
     <labelNoun>drunkenness</labelNoun>
-    <description>Amornuum in the bloodstream. It makes people happy and horney, but reduces capacities.</description>
+    <description>Amornuum in the bloodstream. It makes people happy and horny, but reduces capacities.</description>
     <hediffClass>Hediff_Alcohol</hediffClass>
     <defaultLabelColor>(1,0,0.5)</defaultLabelColor>
     <scenarioCanAdd>true</scenarioCanAdd>
@@ -227,7 +227,7 @@
       </li>
       <li>
         <label>Amornuum Tipsy</label>
-        <description>Oh yea... everyone is definitly hotter now. This stuff rocks.</description>
+        <description>Oh yeah... everyone is definitely hotter now. This stuff rocks.</description>
         <baseMoodEffect>6</baseMoodEffect>
       </li>
       <li>
@@ -237,7 +237,7 @@
       </li>
       <li>
         <label>Hallucinating Serious</label>
-        <description>Holy fuck! Everythings just dicks! There is dicks and boobs everywhere. Wait... am I a dick?</description>
+        <description>Holy fuck! Everything's just dicks! There is dicks and boobs everywhere. Wait... am I a dick?</description>
         <baseMoodEffect>6</baseMoodEffect>
       </li>
       <li>

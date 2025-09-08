@@ -3,7 +3,7 @@
  <ThingDef ParentName="EggFertBase">
     <defName>BigTEgg</defName>
     <label>Huge Vaginal Egg</label>
-    <description>A huge tentacle egg produced in the womb of a tentacle host. Hataches into an Amor Matron.</description>
+    <description>A huge tentacle egg produced in the womb of a tentacle host. Hatches into an Amor Matron.</description>
     <possessionCount>1</possessionCount>
     <graphicData>
       <texPath>Things/Items/HugeEgg</texPath>
@@ -22,7 +22,7 @@
  <ThingDef ParentName="EggFertBase">
     <defName>MedTEgg</defName>
     <label>Large Anal Egg</label>
-    <description>A large tentacle egg produced by a tentacle host. Hatches into a Amor Warrior.</description>
+    <description>A large tentacle egg produced by a tentacle host. Hatches into an Amor Warrior.</description>
     <possessionCount>1</possessionCount>
     <graphicData>
       <texPath>Things/Items/MedEgg</texPath>
@@ -42,7 +42,7 @@
    <ThingDef ParentName="EggFertBase">
     <defName>DroneTEgg</defName>
     <label>Drone Egg</label>
-    <description>An egg produced by a baroness. Hataches into an Amor Drone.</description>
+    <description>An egg produced by a baroness. Hatches into an Amor Drone.</description>
     <possessionCount>1</possessionCount>
     <graphicData>
       <texPath>Things/Item/Resource/AnimalProductRaw/EggBirdSmall</texPath>
@@ -242,7 +242,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>incubating warrior egg</label>
     <labelNoun>egg</labelNoun>
-    <description>Internal tentacles are working to produce and incubate a warrior egg in the hosts womb.</description>
+    <description>Internal tentacles are working to produce and incubate a warrior egg in the host's womb.</description>
     <defaultLabelColor>(203,120,227)</defaultLabelColor>
     <minSeverity>0.001</minSeverity>
     <initialSeverity>0.001</initialSeverity>
@@ -312,7 +312,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>incubating drone egg</label>
     <labelNoun>egg</labelNoun>
-    <description>Internal tentacles are working to produce and incubate a drone egg in the hosts stomach.</description>
+    <description>Internal tentacles are working to produce and incubate a drone egg in the host's stomach.</description>
     <defaultLabelColor>(203,120,227)</defaultLabelColor>
     <minSeverity>0.001</minSeverity>
     <initialSeverity>0.001</initialSeverity>
@@ -392,7 +392,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>incubating drone egg</label>
     <labelNoun>egg</labelNoun>
-    <description>Internal tentacles are working to produce and incubate a drone egg in the hosts anus.</description>
+    <description>Internal tentacles are working to produce and incubate a drone egg in the host's anus.</description>
     <defaultLabelColor>(203,120,227)</defaultLabelColor>
     <minSeverity>0.001</minSeverity>
     <initialSeverity>0.001</initialSeverity>
@@ -472,7 +472,7 @@
     <defName>tentacleegg</defName>
     <label>Matron Egg</label>
     <labelNoun>an amor matron egg</labelNoun>
-    <description>A huge tentacle egg has been produced by the amor queen and swollen inside the hosts body.</description>
+    <description>A huge tentacle egg has been produced by the Amor queen and swollen inside the host's body.</description>
     <stages>
       <li>
         <minSeverity>0.001</minSeverity>
@@ -532,7 +532,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>Laying Egg</label>
     <labelNoun>laying egg</labelNoun>
-    <description>Due too the size of the egg the labor processes is quite intensive.</description>
+    <description>Due to the size of the egg the labor processes is quite intensive.</description>
     <defaultLabelColor>(255,20,147)</defaultLabelColor>
     <minSeverity>0</minSeverity>
     <initialSeverity>1</initialSeverity>
@@ -601,7 +601,7 @@
     <HediffDef>
         <defName>TentInteralRupture</defName>
         <label>internal bruising</label>
-        <description>Something inside has been thrashing around. It's gonna ache for awhile.</description>
+        <description>Something inside has been thrashing around. It's gonna ache for a while.</description>
         <hediffClass>HediffWithComps</hediffClass>
         <initialSeverity>1</initialSeverity>
         <stages/>
@@ -617,7 +617,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>drone egg</label>
     <labelNoun>egg</labelNoun>
-    <description>A drone egg is being perpeled from the throat.</description>
+    <description>A drone egg is being expelled from the throat.</description>
     <defaultLabelColor>(203,120,227)</defaultLabelColor>
     <minSeverity>0</minSeverity>
     <initialSeverity>1</initialSeverity>
@@ -655,7 +655,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>drone egg</label>
     <labelNoun>egg</labelNoun>
-    <description>A drone egg is being perpeled from the anus.</description>
+    <description>A drone egg is being expelled from the anus.</description>
     <defaultLabelColor>(203,120,227)</defaultLabelColor>
     <minSeverity>0</minSeverity>
     <initialSeverity>1</initialSeverity>
@@ -692,7 +692,7 @@
     <defName>TNymphAss</defName>
     <label>Incubating Nymph</label>
     <labelNoun>an amor nymph</labelNoun>
-    <description>A nymph has begun incubating in the brood mothers ass. When it is ready it will slither from the anus as a nymph to be implanted in a new female host.</description>
+    <description>A nymph has begun incubating in the brood mother's ass. When it is ready, it will slither from the anus, to be implanted in a new female host.</description>
     <stages>
       <li>
         <minSeverity>0.001</minSeverity>

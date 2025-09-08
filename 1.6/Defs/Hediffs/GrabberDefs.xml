@@ -3,7 +3,7 @@
     <HediffDef>
         <defName>BodyDependance</defName>
         <label>Host Dependance</label>
-        <description>This creature was not ment to live on it's own and will soon die as it's body rapidly disintegrates.</description>
+        <description>This creature was not meant to live on its own and will soon die, as its body rapidly disintegrates.</description>
         <everCurableByItem>false</everCurableByItem>
         <stages/>
         <hediffClass>HediffWithComps</hediffClass>
@@ -23,7 +23,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>attaching victim</label>
     <labelNoun>attaching</labelNoun>
-    <description>This tentacle is attaching to it's victim.</description>
+    <description>This tentacle is attaching to its victim.</description>
     <defaultLabelColor>(1,1,1)</defaultLabelColor>
     <minSeverity>0</minSeverity>
     <initialSeverity>0</initialSeverity>
@@ -141,7 +141,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>gravida on anus</label>
     <labelNoun>gravida</labelNoun>
-    <description>An amor gravida has latched onto the victims ass. It will keep it's host paralyzed for a few days. They still feel everything of course. Until it dies naturally or is surgiclly removed.</description>
+    <description>An Amor Gravida has latched onto the victim's ass. It will keep its host paralyzed for a few days. They still feel everything of course. Until it dies naturally or is surgically removed.</description>
     <defaultLabelColor>(1,1,1)</defaultLabelColor>
     <minSeverity>0</minSeverity>
     <initialSeverity>1</initialSeverity>
@@ -365,7 +365,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>gravida on face</label>
     <labelNoun>gravida</labelNoun>
-    <description>An amor gravida has latched onto the victims face. It will keep it's host paralyzed for a few days while it implants eggs in the hosts throat. They still feel everything of course. Until it dies naturally or is surgiclly removed.</description>
+    <description>An Amor Gravida has latched onto the victims face. It will keep its host paralyzed for a few days while it implants eggs in the hosts throat. They still feel everything of course. Until it dies naturally or is surgically removed.</description>
     <defaultLabelColor>(1,1,1)</defaultLabelColor>
     <minSeverity>0</minSeverity>
     <initialSeverity>1</initialSeverity>
@@ -597,7 +597,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>gravida on vagina</label>
     <labelNoun>gravida</labelNoun>
-    <description>An amor gravida has latched onto the victims waist. It will keep it's host paralyzed for a few days while it deposits clumps of tiny eggs in the hosts vagina. They still feel everything of course. Until it dies naturally or is surgiclly removed.</description>
+    <description>An amor Gravida has latched onto the victim's waist. It will keep its host paralyzed for a few days while it deposits clumps of tiny eggs in the hosts vagina. They still feel everything of course. Until it dies naturally or is surgically removed.</description>
     <defaultLabelColor>(1,1,1)</defaultLabelColor>
     <minSeverity>0</minSeverity>
     <initialSeverity>1</initialSeverity>
@@ -831,7 +831,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>gravida on penis</label>
     <labelNoun>gravida</labelNoun>
-    <description>An amor gravida has latched onto the victims waist. It will keep it's host paralyzed for a few days while it deposits eggs down the hosts urethra and milks them for their cum. They still feel everything of course. Until it dies naturally or is surgiclly removed.</description>
+    <description>An Amor Gravida has latched onto the victim's waist. It will keep its host paralyzed for a few days while it deposits eggs down the hosts urethra and milks them for their cum. They still feel everything of course. Until it dies naturally or is surgically removed.</description>
     <defaultLabelColor>(1,1,1)</defaultLabelColor>
     <minSeverity>0</minSeverity>
     <initialSeverity>1</initialSeverity>
@@ -999,7 +999,7 @@
     <GeneDef>
         <defName>TStrip</defName>
         <label>Face Gravida</label>
-        <description>A gravida is latched onto the victim and has stripped them of all clothing.</description>
+        <description>A Gravida is latched onto the victim and has stripped them of all clothing.</description>
         <iconPath>Genes/Tentacle_Body</iconPath>
         <displayCategory>Cosmetic</displayCategory>
         <displayOrderInCategory>89</displayOrderInCategory>

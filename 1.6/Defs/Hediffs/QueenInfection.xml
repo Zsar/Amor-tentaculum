@@ -151,7 +151,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>stretched rectum</label>
     <labelNoun>rectum</labelNoun>
-    <description>The Amor queen has grown and invaded this part of the body. The hosts rectum, and large intestine are being stretched to accommodate larger and more plentaful tentacle insertions. These processes are uncomfortable.</description>
+    <description>The Amor queen has grown and invaded this part of the body. The hosts rectum and large intestine are being stretched to accommodate larger and more plentiful tentacle insertions. These processes are uncomfortable.</description>
     <defaultLabelColor>(255,20,147)</defaultLabelColor>
     <minSeverity>0.001</minSeverity>
     <initialSeverity>0.001</initialSeverity>
@@ -220,7 +220,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>stretched stomach</label>
     <labelNoun>stomach</labelNoun>
-    <description>The Amor queen has grown and invaded this part of the body. The hosts stomach, and throat are being stretched and cleared of acid to cultivate a better enviroment for tentacle offspring. These processes are uncomfortable.</description>
+    <description>The Amor queen has grown and invaded this part of the body. The hosts stomach and throat are being stretched and cleared of acid to cultivate a better environment for tentacle offspring. These processes are uncomfortable.</description>
     <defaultLabelColor>(255,20,147)</defaultLabelColor>
     <minSeverity>0.001</minSeverity>
     <initialSeverity>0.001</initialSeverity>
@@ -301,7 +301,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>stretched womb</label>
     <labelNoun>womb</labelNoun>
-    <description>The Amor queen has grown and invaded this part of the body. The hosts womb, and cervix are being stretched open to support longterm tentacle pregnacny. These processes are uncomfortable.</description>
+    <description>The Amor queen has grown and invaded this part of the body. The hosts womb and cervix are being stretched open to support long term tentacle pregnancy. These processes are uncomfortable.</description>
     <defaultLabelColor>(255,20,147)</defaultLabelColor>
     <minSeverity>0.001</minSeverity>
     <initialSeverity>0.001</initialSeverity>
@@ -376,7 +376,7 @@
     <hediffClass>HediffWithComps</hediffClass>
     <label>Amor Brood Mother</label>
     <labelNoun>Mother</labelNoun>
-    <description>An Adult Amor Tentaculum queen has grown within the host causing a permanent pregnancy. The host can now begin laying matron eggs and emits soothing pheromones around them.</description>
+    <description>An adult Amor Tentaculum queen has grown within the host causing a permanent pregnancy. The host can now begin laying matron eggs and emits soothing pheromones around them.</description>
     <defaultLabelColor>(203,120,227)</defaultLabelColor>
     <scenarioCanAdd>true</scenarioCanAdd>
     <maxSeverity>1.5</maxSeverity>
